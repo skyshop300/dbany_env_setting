@@ -1,0 +1,40 @@
+2018-07-16 16:16:10,139 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-07-16 16:16:12,253 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:16:13,054 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-07-16 16:17:02,361 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:17:04,753 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:17:40,208 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:17:41,920 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:24:50,660 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:24:53,073 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:25:11,605 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dbany\dbany
+2018-07-16 16:25:11,606 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-07-16 16:26:58,873 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 16:26:58,878 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-16 16:26:58,889 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-16 16:26:58,891 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 16:26:58,892 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dbany\dbany\src\test\resources
+2018-07-16 16:26:58,896 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dbany
+2018-07-16 16:26:58,897 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dbany
+2018-07-16 16:26:58,903 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:3.0.0 is missing, no dependency information available
+2018-07-16 16:26:58,917 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 16:27:00,068 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.pom
+2018-07-16 16:27:00,232 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.pom
+2018-07-16 16:27:00,570 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.jar
+2018-07-16 16:27:01,277 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.jar
+2018-07-16 16:29:31,407 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-07-16 16:29:32,537 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dbany.dbany:dbanySpring:0.0.1-SNAPSHOT @ C:\dbany\dbany\pom.xml.
+2018-07-16 16:29:34,315 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dbany/src/main/java
+2018-07-16 16:29:34,316 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dbany/src/main/resources
+2018-07-16 16:29:34,322 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dbany/src/main/resources
+2018-07-16 16:29:34,330 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dbany/src/test/java
+2018-07-16 16:29:38,972 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dbany
+2018-07-16 16:29:39,171 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2018-07-16 16:30:01,691 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 16:30:01,693 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-16 16:30:01,710 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-16 16:30:01,714 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-16 16:30:01,715 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dbany\dbany\src\test\resources
+2018-07-16 16:30:01,715 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dbany
+2018-07-16 16:30:01,715 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dbany
+2018-07-16 16:30:01,722 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
