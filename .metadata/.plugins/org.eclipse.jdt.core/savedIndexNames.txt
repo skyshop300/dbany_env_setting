@@ -38,7 +38,6 @@ INDEX VERSION 1.129+C:\dbany\.metadata\.plugins\org.eclipse.jdt.core
 1498536796.index
 414978335.index
 4182268795.index
-2896275852.index
 625230770.index
 2461407053.index
 3907922965.index
