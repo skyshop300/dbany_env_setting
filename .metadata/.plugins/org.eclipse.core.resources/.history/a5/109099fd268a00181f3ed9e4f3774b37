@@ -1,0 +1,5 @@
+package com.dbany.controller;
+
+public class MemberController {
+
+}
