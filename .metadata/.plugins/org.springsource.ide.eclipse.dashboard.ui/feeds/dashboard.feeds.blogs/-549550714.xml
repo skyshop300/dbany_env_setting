@@ -5,7 +5,42 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2018-07-13T20:19:19Z</updated>
+  <updated>2018-07-17T21:30:41Z</updated>
+  <entry>
+    <title>This Week in Spring - July 17th, 2018</title>
+    <link rel="alternate" href="https://spring.io/blog/2018/07/17/this-week-in-spring-july-17th-2018" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2018-07-17:3331</id>
+    <updated>2018-07-17T21:30:41Z</updated>
+    <content type="html">&lt;p&gt;Hi Spring fans and welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! Can you believe we&amp;rsquo;re already midway through the year?? Stunning. &lt;/p&gt;
+&lt;p&gt;This week I&amp;rsquo;m in San Francisco preparing for a video shoot next week and a joint presentatio with Google&amp;rsquo;s Ray Tsang at next week&amp;rsquo;s Google NEXT and tomorrow it&amp;rsquo;s off to Portland, OR, for the epic OSCON event where I&amp;rsquo;ll be doing a book signing at the O&amp;rsquo;Reilly booth on Wednesday and I&amp;rsquo;ll be doing a talk, &lt;em&gt;Reactive Spring&lt;/em&gt;, on thursday. As usual, if you&amp;rsquo;re in the region and want to chat or grab a Voodoo doughnut, don&amp;rsquo;t hesitate to &lt;a href="http://twitter.com/starbuxman"&gt;say hi&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Now, without further ado, let&amp;rsquo;s get on with the show.. &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Today, Pivotal joined Red Hat, Facebook, Google, IBM, CA Technologies, Cisco, HPE, Microsoft, SAP, SUSE, VMware, and more in committing to provide the open source community a cure period for license noncompliance under GPLv2 and LGPLv2. &lt;a href="https://content.pivotal.io/blog/pivotal-joins-other-technology-industry-leaders-to-advance-open-source-licensing"&gt;What&amp;rsquo;s that mean? Read on!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/07/13/spring-batch-4-1-0-m2-released"&gt;Spring Batch 4.1.0.M2 Released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/07/12/spring-cloud-data-flow-1-6-m2-released"&gt;Spring Cloud Data Flow 1.6 M2 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/07/12/spring-cloud-stream-elmhurst-sr1-released"&gt;Spring Cloud Stream Elmhurst.SR1 Released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://content.pivotal.io/blog/how-pivotal-cloud-foundry-2-2-helps-you-improve-the-metrics-that-matter#CredHub"&gt;How Pivotal Cloud Foundry 2.2 Helps You Improve the Metrics that Matter.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;This tutorial, by &lt;em&gt;TheServerSide&lt;/em&gt;&amp;rsquo;s Cameron McKenzie on &lt;a href="https://www.theserverside.com/tutorial/Spring-MVC-tutorial-How-Spring-Boot-aids-Java-web-development?mkt_tok=eyJpIjoiWTJabFl6YzVOalkyWXpZeCIsInQiOiJUTDJnV1Fybmx4TkFyTlptZm9hV09WcUxWWE9ZZnFnMHp4MExRVHRsWFg5NWo4XC9sVlh2WVFjUU1uVTBOdDE4WFFXK0xIMTVsQTFjMnUzK1JYdm8yRmlnUHpyXC83M1k0Z3Q3bytObzBMTzlGa0N3REMrblwvcjdDVjZ4ak5MekdCOSJ9"&gt;how Spring Boot accelerates Java application development&lt;/a&gt; and makes it easier is well worth a read! It&amp;rsquo;s detailed and illustrative.&lt;/li&gt;
+  &lt;li&gt;Marcin is the lead of Spring Cloud Contract and his &lt;a href="https://t.co/GPw8OOqHnY?ssr=true"&gt;talks are not to be missed!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I¡¯m so glad to see this! It¡¯s an article on how to use &lt;a href="https://dzone.com/articles/how-to-use-spring-retry?edition=385244"&gt;Spring Retry&lt;/a&gt;, which I personally love. Spring Retry is half the bloat and a nicer programming model than Hystrix.&lt;/li&gt;
+  &lt;li&gt;We did it again! &lt;a href="https://twitter.com/ncayou/status/1018686173202415616?s=12"&gt;Pivotal won Microsoft Azure US ISV Partner of Year for 2018&lt;/a&gt;. 2nd year in a row!&lt;/li&gt;
+  &lt;li&gt;Great post over on the eBay R&amp;amp;D blog on &lt;a href="https://t.co/ijFEOyxQXP"&gt;integration testing their Spring applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring Data lead Oliver Gierke &lt;a href="https://twitter.com/olivergierke/status/1017430742266236928?s=12"&gt;just in with the uh&amp;hellip; well, the data&lt;/a&gt;! June download stats for @SpringData are impressive, and saw a solid 100% year-over-year growth with almost 2 million downloads per month now! Congrats to the Spring Data team and &lt;em&gt;thank you&lt;/em&gt; Spring community!&lt;/li&gt;
+  &lt;li&gt;Nice post &lt;a href="https://codecouple.pl/2018/07/13/0-spring-boot-2-introduction/"&gt;by Krzysztof Chru?ciel on Spring Boot 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;This &lt;a href="https://xn--fhqq99a3lb.jp/198"&gt;Japanese-language post on Spring Cloud Contract&lt;/a&gt; looks (as far as I can tell, after running it through Google Translate) compelling&lt;/li&gt;
+  &lt;li&gt;Sweet sweet Spring Cloud Function support has been added &lt;a href="https://twitter.com/starbuxman/status/1017781690222153728"&gt;to the Spring Initializr&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Good news everybody! Eberhard Wolff, Spring and architecture expert extraordinaire, has updated the code for his demos and free booklets to the latest &lt;a href="https://twitter.com/ewolff/status/1017070693853298689?s=12"&gt;and greatest Spring Boot 2 and Spring Cloud Finchley&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Great article on how to modernize legacy code, &lt;a href="https://itnext.io/how-to-make-legacy-code-reactive-2debcb3d0a40"&gt;making it reactive as you go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;This is an interesting series from our friends at Codecentric &lt;a href="https://m.youtube.com/watch?list=PLD9VybHH2wnY6AdGpGinjwzq5brwRn85K&amp;v=oL7YvHlOQzw"&gt;on building applications with Spring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Odds are you&amp;rsquo;re going to love this video by Pivotal&amp;rsquo;s very own Jim Weaver &lt;a href="https://twitter.com/springcentral/status/1017089056620990464"&gt;&lt;em&gt;on reactive card magic&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The talk I gave with Kotlin legend &lt;a href="https://twitter.com/spring_io/status/1017034730016067584?s=12"&gt;Sebastien Deleuze on &lt;em&gt;Bootiful Kotlin&lt;/em&gt;&lt;/a&gt; at the recent Spring I/O in Barcelona, Spain is online and - if I may - well worth a watch!&lt;/li&gt;
+  &lt;li&gt;Check out Allard Buijze&amp;rsquo;s epic Spring I/O 2018 talk &lt;a href="https://www.youtube.com/watch?v=jc0RGv4YFH0&amp;feature=youtu.be"&gt;&lt;em&gt;Bootiful CQRS and Event Sourcing with Axon Framework&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Spring Batch 4.1.0.M2 Released</title>
     <link rel="alternate" href="https://spring.io/blog/2018/07/13/spring-batch-4-1-0-m2-released" />
@@ -1528,44 +1563,5 @@ public class UppercaseApplication {&#xD;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;As you have hopefully gathered by now, reactive programming has well and truly arrived in Spring! Spring Cloud is the last major project that needed to support it for a holistic discussion of reactive programming. But this is not the end of the story, at all. Indeed, we&amp;rsquo;re JUST getting started! Stay tuned. :-)&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;ll be talking about reactive programming and reactive Spring Cloud-based microservices, among many other things, at the upcoming SpringOne Platform event. &lt;a href="https://springoneplatform.io/"&gt;Join us&lt;/a&gt;!&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>This Week in Spring - June 19th, 2018</title>
-    <link rel="alternate" href="https://spring.io/blog/2018/06/20/this-week-in-spring-june-19th-2018" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Josh Long</name>
-    </author>
-    <id>tag:spring.io,2018-06-20:3312</id>
-    <updated>2018-06-20T03:14:28Z</updated>
-    <content type="html">&lt;p&gt;Hi Spring fans! Welcome to another wonderful and wild &lt;em&gt;This Week in Spring&lt;/em&gt;! This week I&amp;rsquo;m in Amsterdam, NL (visiting customers); London, UK (for both &lt;a href="https://opentechcalendar.co.uk/event/6915-cloud-native-java-part-deux"&gt;the London Java Community Java User Group talk &lt;/a&gt; and &lt;a href="https://springonetour.io/2018/london"&gt;the SpringOne Tour event&lt;/a&gt;); Paris, FR (for the &lt;a href="https://jhipster-conf.github.io/"&gt;first JHipster Conf&lt;/a&gt;); Krakow, PL (for &lt;a href="http://devoxx.pl/"&gt;Devoxx Poland&lt;/a&gt;) and then it&amp;rsquo;s off to Sao Paolo, BR (&lt;a href="https://connect.pivotal.io/Spring-Connect-Brazil-2018-BR.html"&gt;for the Spring Connect show&lt;/a&gt;). If you&amp;rsquo;re in any of those places, &lt;a href="http://twitter.com/starbuxman"&gt;say hi&lt;/a&gt;!&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/19/spring-cloud-finchley-release-is-available"&gt;Spring Cloud Finchley.RELEASE is available&lt;/a&gt;. This is the big one! It&amp;rsquo;s finally here! The final piece of the reactive puzzle. This release culminates an almost year long journey from Spring Framework 5 (released in September of 2017) which introduced the world of Spring to reactive programming. Then we saw Spring Data Kay, Spring Cloud Stream, Spring Security 5, Spring Boot 2 (just a few months ago) and now, finally, Spring Cloud Finchley all embrace reactive programming wherever it makes sense. Spring Framework 5 is the new baseline and with it comes a new Java baseline requirement; Spring Cloud Finchley assumes Java 8 or better. This release is not just a refresh, though! Furthest thing from it! This release also includes two (effectively) brand new projects called Spring Cloud Function and Spring Cloud Gateway. Spring Cloud Function &lt;a href="https://www.youtube.com/watch?v=E55oAtOhWZU"&gt;supports serverless programming &lt;/a&gt; and Spring Cloud Gateway is &lt;a href="https://www.youtube.com/watch?v=TwVtlNX-2Hs"&gt;an API Gateway&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Sprinf IO Platform lead Andy Wilkinson has &lt;a href="https://spring.io/blog/2018/06/18/spring-io-platform-cairo-sr2"&gt;just announced Spring IO Platform Cairo SR2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Not one to rest on his laurels, Andy Wilkinson also just announced &lt;a href="https://spring.io/blog/2018/06/18/spring-io-platform-brussels-sr11"&gt;Spring IO Platform Brussels SR11&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Brian Clozel published the following &lt;a href="https://spring.io/blog/2018/06/14/spring-project-vulnerability-reports-published"&gt;Spring Framework-related CVEs!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Brian Clozel &lt;a href="https://spring.io/blog/2018/06/14/spring-boot-2-0-3-available-now"&gt;has just announced Spring Boot 2.0.3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;St?phane Nicoll has &lt;a href="https://spring.io/blog/2018/06/14/spring-boot-1-5-14-available-now"&gt;just announced Spring Boot 1.5.14&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Simon Basl? has just &lt;a href="https://spring.io/blog/2018/06/14/announcing-reactor-bismuth-sr10"&gt;announced the Reactor Bismuth-SR10 release&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/14/spring-session-apple-sr3-released"&gt;Spring Session Apple SR3 Released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Mark Paluch &lt;a href="https://spring.io/blog/2018/06/14/spring-data-ingalls-sr13-and-kay-sr8-released"&gt;announced Spring Data Ingest SR13 and Spring Data Key SR8&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Cloud Stream ninja Soby Chacko &lt;a href="https://github.com/spring-cloud/spring-cloud-stream-samples/tree/master/partitioning-samples"&gt;has some nice examples demonstrating partitioning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/13/spring-cloud-stream-ditmars-sr4-released"&gt;Spring Cloud Stream Ditmars.SR4 Released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/13/spring-security-5-0-6-and-4-2-7-released"&gt;Spring Security 5.0.6 and 4.2.7 Released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/13/spring-cloud-pipelines-1-0-0-m8-released"&gt;Spring Cloud Pipelines 1.0.0.M8 Released&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/13/spring-framework-5-0-7-and-4-3-18-available-now"&gt;Spring Frameworks 5.0.7 and 4.3.18 are available now&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;In last week&amp;rsquo;s &lt;a href="https://spring.io/blog/2018/06/13/spring-tips-spring-fu"&gt;Spring Tips, we looked at the brand new Spring Fu project&lt;/a&gt;. Spring Fu is an experiment where we investigate options for a Kotlin-first and functional configuration-centric approach to microframeworks. It is also &lt;em&gt;really&lt;/em&gt; fast. Try it out!&lt;/li&gt;
-  &lt;li&gt;Spring community legend Michael Simons has a nice post on &lt;a href="https://info.michael-simons.eu/2018/06/18/maven-use-junit-5-with-spring-boot-for-unit-and-integration-tests/"&gt;how to use JUnit 5 with Spring Boot for unit and integration tests&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;This is a wonderful post by Martin Deinum on &lt;a href="https://mdeinum.github.io/2018-04-12-on-spring-applicationcontext-and-bean-creation/"&gt;the structure of the &lt;code&gt;ApplicationContext&lt;/code&gt;&lt;/a&gt;, and how the various kinds of &amp;ldquo;configuration&amp;rdquo; are supported in Spring. This is an absolutely golden post and I&amp;rsquo;m so happy to see someone talking about these often overlooked details.&lt;/li&gt;
-  &lt;li&gt;This post by Okta Developer Advocate Matt Raible details how to &lt;a href="https://developer.okta.com/blog/2018/06/18/spring-boot-angular-auth-code-flow"&gt;secure a Spring Boot and Angular PWA application as a single artifact&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Spring Data Geode/Gemfire lead John Blum has a fantastic example of &lt;a href="https://github.com/pivotal-cf/PCC-Sample-App-PizzaStore/pull/6"&gt;using Spring Data Geode/Gemfire to build a sample application. Check it out&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Check out the &lt;a href="https://twitter.com/springcentral/status/1009120028652814336"&gt;new release of the Chaos Monkey for Spring Boot&lt;/a&gt;. This release supports Spring Boot 2.x, improved documentation and improved JMX Actuator support.&lt;/li&gt;
-  &lt;li&gt;Check out this new &lt;code&gt;cf&lt;/code&gt; CLI plugin to &lt;a href="https://twitter.com/cloudfoundry/status/1008793109763780608"&gt;plugin to enable pushing artifacts to cloud foundry by maven coordinates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://blog.codefx.org/java/tricks-var-anonymous-classes/"&gt;Tricks with &amp;lsquo;var&amp;rsquo; and anonymous classes (that you should never use at work) - blog@CodeFX&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Did you miss Spring I/O 2018 in Barcelona, Spain? (If so, why?) &lt;a href="https://www.diva-e.com/de/news/neues-von-der-spring-io-2018-in-barcelona/"&gt;Check out this recap post&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The Java Revisited blog has a nice post on &lt;a href="https://medium.com/javarevisited/why-java-developer-should-use-spring-to-develop-restful-web-services-efe36d7a6727?source=userActivityShare-a17df5ec14a4-1529129919"&gt;why every developer should use Spring to build REST APIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;I really liked this post on &lt;a href="http://blog.marcosbarbero.com/user-impersonation-with-spring-security/"&gt;user impersonation with Spring Security&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Our very own Toshiaki Maki &lt;a href="https://github.com/making/demo-pdf-stamper"&gt;put together a really cool demo that Spring Boot 2 and iText (OpenPDF) and &lt;code&gt;AbstractPdfStamperView&lt;/code&gt; to create a &lt;code&gt;.PDF&lt;/code&gt; template&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
   </entry>
 </feed>
