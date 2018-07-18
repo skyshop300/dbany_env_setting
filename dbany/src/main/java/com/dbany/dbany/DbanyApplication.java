@@ -38,5 +38,6 @@ public class DbanyApplication {
 		return sessionFactory.getObject();
 		
 	}
+	// test
 }
  
