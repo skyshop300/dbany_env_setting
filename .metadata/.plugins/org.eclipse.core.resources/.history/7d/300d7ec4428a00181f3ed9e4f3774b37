@@ -1,0 +1,12 @@
+package com.dbany.login.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+                                   
+public class LoginController {
+
+	@RequestMapping("/ho")
+	public String hello(){
+		return "hello";
+	}
+}
