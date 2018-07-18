@@ -1,0 +1,25 @@
+package com.dbany.dbany;
+
+import javax.activation.DataSource;
+
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.junit.Test;
+import org.mybatis.spring.SqlSessionFactoryBean;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+@SpringBootApplication
+public class DbanyApplication {
+	
+	@Autowired
+	private SqlSessionFactory sqlSession;
+	
+	public static void main(String[] args) {
+		SpringApplication.run(DbanyApplication.class, args);
+	}
+	
+	
+}
+ 
